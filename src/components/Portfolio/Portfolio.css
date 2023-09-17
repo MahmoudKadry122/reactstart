@@ -1,0 +1,19 @@
+.wrapper {
+  padding: 65px 50px;
+}
+.plus-icon.position-absolute.start-0.end-0.top-0.bottom-0.w-100.d-flex {
+  justify-content: center;
+  align-items: center;
+  background: #d1cdcdb5;
+  transform: translate(0, 100%);
+  opacity: 0;
+  transition: 0.5s;
+  overflow: hidden;
+}
+.plus-icon.position-absolute.start-0.end-0.top-0.bottom-0.w-100.d-flex i {
+  font-size: 30px;
+}
+.col-content.position-relative:hover .plus-icon {
+  transform: translate(0px, 0%) !important;
+  opacity: 1 !important;
+}

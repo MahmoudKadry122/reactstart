@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/reactstart/static/css/main.946ba085.css",
+    "main.js": "/reactstart/static/js/main.16d03510.js",
+    "static/js/787.2a5ba57a.chunk.js": "/reactstart/static/js/787.2a5ba57a.chunk.js",
+    "static/media/fa-solid-900.ttf": "/reactstart/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/fa-brands-400.ttf": "/reactstart/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/fa-solid-900.woff2": "/reactstart/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/fa-brands-400.woff2": "/reactstart/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/fa-regular-400.ttf": "/reactstart/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/concept-404-error-web-page-with-astronaut-open-space-different-planets_145666-1261.jpg": "/reactstart/static/media/concept-404-error-web-page-with-astronaut-open-space-different-planets_145666-1261.546104802f0e7d5d5d69.jpg",
+    "static/media/poert1.png": "/reactstart/static/media/poert1.4417330275f78faa31c3.png",
+    "static/media/port3.png": "/reactstart/static/media/port3.494a4a914b5471b41f3e.png",
+    "static/media/fa-regular-400.woff2": "/reactstart/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/port2.png": "/reactstart/static/media/port2.6554473016d32b343f02.png",
+    "static/media/avataaars.svg": "/reactstart/static/media/avataaars.aa9aff02ddd0ef36a1724ecef4133df9.svg",
+    "static/media/fa-v4compatibility.ttf": "/reactstart/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/reactstart/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "index.html": "/reactstart/index.html",
+    "main.946ba085.css.map": "/reactstart/static/css/main.946ba085.css.map",
+    "main.16d03510.js.map": "/reactstart/static/js/main.16d03510.js.map",
+    "787.2a5ba57a.chunk.js.map": "/reactstart/static/js/787.2a5ba57a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.946ba085.css",
+    "static/js/main.16d03510.js"
+  ]
+}
