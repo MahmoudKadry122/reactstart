@@ -1,0 +1,23 @@
+nav.navbar.navbar-expand-lg.bg-body-tertiary {
+  padding: 20px 0px;
+  background: linear-gradient(45deg, #832727, #241a87);
+  border-bottom: 0.5px solid #fff;
+}
+
+li.nav-item a,
+.navbar-brand {
+  color: #fff !important;
+  font-weight: 700 !important;
+}
+
+.navbar-toggler-icon {
+  background-image: unset !important;
+  color: #fff;
+}
+button.navbar-toggler {
+  border: unset;
+}
+
+.navbar-toggler:focus {
+  box-shadow: unset !important;
+}

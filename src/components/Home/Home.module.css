@@ -1,0 +1,17 @@
+.img_cont {
+  width: 300px;
+  margin: 0px auto;
+}
+.home_cont {
+  height: 700px;
+  flex-direction: column;
+  justify-content: center;
+  gap: 50px;
+}
+body {
+  background: linear-gradient(99deg, #832727, #241a87);
+}
+
+.content {
+  color: #fff !important;
+}
